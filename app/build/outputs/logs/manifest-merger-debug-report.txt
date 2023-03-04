@@ -1,0 +1,388 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] /home/ikhsan/.gradle/caches/transforms-3/8ce26b8650fdb38eb01dcac2d32b53cf/transformed/viewbinding-7.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/6ab43390b9d60d9af5958b106852a966/transformed/room-ktx-2.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/382c8cdc4ea913ad1062e1abb5992307/transformed/navigation-ui-ktx-2.3.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/4ccb36ebf6ffd83ea0e54aa3a30352dc/transformed/navigation-ui-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.8.0] /home/ikhsan/.gradle/caches/transforms-3/f9624e5d401e11bedfa0dc9bc38ed3ab/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ikhsan/.gradle/caches/transforms-3/929b1d9fd46e08cd191130faf5a461f2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ikhsan/.gradle/caches/transforms-3/c772a36d169a0c7f2e83a4dc1bb08120/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ikhsan/.gradle/caches/transforms-3/d9e7d8fd37e2a4ba3a58d8cc11fc5bd4/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/dcd16acfa3507d07082bcf68f19faaef/transformed/navigation-dynamic-features-fragment-2.3.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/d30444d5241fd163429caf2dc2f849b7/transformed/navigation-fragment-ktx-2.3.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/07396125af147d9eb4766f03b3fcf493/transformed/navigation-fragment-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/3fec0c73fcdb379f29058169c991f4e2/transformed/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/08ce5a4dafb5b73fa199c18a6d6f1726/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/ikhsan/.gradle/caches/transforms-3/60d7dad61b596cfbf7baf0bd9bef30c4/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/ikhsan/.gradle/caches/transforms-3/092393640c0608266962377c07abdc92/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/df4ec9d7a7c5b30f5875a960282fb977/transformed/navigation-dynamic-features-runtime-2.3.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/d0003a2c42c0fde8e343e0e48db69650/transformed/navigation-runtime-ktx-2.3.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/b1e73462022c28ce59970aeb34815db1/transformed/navigation-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/ikhsan/.gradle/caches/transforms-3/a8d31b626279fc851515da086f70b894/transformed/activity-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] /home/ikhsan/.gradle/caches/transforms-3/a9e0b0159aac2cc4b5dbc92efe437f33/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a873028cd79ea023aea23baef142ae6a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/6b6d133a459b798c35876c9dd2f36c07/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/ed5b8f15aa743a0d74efe55197647f5d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/f473a219c87ba2be15076b45b38ed9dd/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/2eba3faf70e8a73c295b6bf780e06ad2/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/f9a1eefb75bf822c41c08049d2985472/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/de9e5db74f890ee8ca04b64bad6e8700/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/53242bb7153c9063121379e63c591bef/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ca668b4c44c0b422a2963dc6f576f879/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/968e64363c5c64c31bb55992c851c562/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/edab3e23f456dc64f7b2ec407b27372a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/1488b3d9d10c448b372d120604f7800b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/ikhsan/.gradle/caches/transforms-3/68f4a8613fa06073fdd59d34ae6c89dc/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/27712469a5f069530ccc1489f59a7cd8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/432d80872fe660f17a0da4cdef2fa487/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/418ca47fdfee857a4b139a45b382109c/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/110338a8a51091d6cf5d0b80b240921a/transformed/navigation-common-ktx-2.3.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/5faec801d8670c7e66b91d8493613844/transformed/navigation-common-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/17a04075de01956f65b643cd802243e4/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/27e7b34d32d238b84fe925b774106428/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/c044f9c168a7334dc547e66519a3b1a9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a812e1321a373222e25d7eba15126117/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a6977b5fa5f1caa7f458ec0df235657a/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a4091ffbc65411772ba20a944badd2cf/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/ikhsan/.gradle/caches/transforms-3/6090226bd2db684f334ab2322fe917a1/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/ikhsan/.gradle/caches/transforms-3/f0a7bf35c42eb1cb0c1c186928d7f010/transformed/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/31acde5fa7e5deb529e0e6c7ec76ff49/transformed/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/d65736a385800de948f918eff9ce702d/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/0d614d755f8327eec71991b027832f02/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ce3e0d25335f594569e137279147f2e2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/8d77dc4276470111facc9cf6b109bdb5/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/ikhsan/.gradle/caches/transforms-3/2d0b2f84668bab3f7cfe7375a188b92a/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ikhsan/.gradle/caches/transforms-3/7f104d02565e2438671a7f9400d17f9a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/d92d4a5c312d224eeadcc148cca2d153/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ikhsan/.gradle/caches/transforms-3/856f4fb7696c178624ed9fe7fec5dd5e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/7803887f337b87fac9eee669bfc95b5b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/293f003b6a581ece247f0276e6b81137/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a716cc6fa9c0a8ba917d5f3b2a9b3f5b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/68e1e4e57b7aac7a5395297e498b779d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ikhsan/.gradle/caches/transforms-3/a1477e1968e911d3c31cfdc01fb42475/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.google.android.material:material:1.8.0] /home/ikhsan/.gradle/caches/transforms-3/f9624e5d401e11bedfa0dc9bc38ed3ab/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /home/ikhsan/.gradle/caches/transforms-3/f9624e5d401e11bedfa0dc9bc38ed3ab/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ikhsan/.gradle/caches/transforms-3/929b1d9fd46e08cd191130faf5a461f2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ikhsan/.gradle/caches/transforms-3/929b1d9fd46e08cd191130faf5a461f2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/3fec0c73fcdb379f29058169c991f4e2/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/3fec0c73fcdb379f29058169c991f4e2/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/31acde5fa7e5deb529e0e6c7ec76ff49/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/31acde5fa7e5deb529e0e6c7ec76ff49/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/0d614d755f8327eec71991b027832f02/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/0d614d755f8327eec71991b027832f02/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ce3e0d25335f594569e137279147f2e2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ce3e0d25335f594569e137279147f2e2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:10:3-17:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:9:9-54
+	tools:targetApi
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:13:9-45
+	android:dataExtractionRules
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:8:9-65
+activity#com.example.newsapp.ui.MainActivity
+ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:16:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.1] /home/ikhsan/.gradle/caches/transforms-3/8ce26b8650fdb38eb01dcac2d32b53cf/transformed/viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] /home/ikhsan/.gradle/caches/transforms-3/8ce26b8650fdb38eb01dcac2d32b53cf/transformed/viewbinding-7.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/6ab43390b9d60d9af5958b106852a966/transformed/room-ktx-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/6ab43390b9d60d9af5958b106852a966/transformed/room-ktx-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/382c8cdc4ea913ad1062e1abb5992307/transformed/navigation-ui-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/382c8cdc4ea913ad1062e1abb5992307/transformed/navigation-ui-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/4ccb36ebf6ffd83ea0e54aa3a30352dc/transformed/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/4ccb36ebf6ffd83ea0e54aa3a30352dc/transformed/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /home/ikhsan/.gradle/caches/transforms-3/f9624e5d401e11bedfa0dc9bc38ed3ab/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /home/ikhsan/.gradle/caches/transforms-3/f9624e5d401e11bedfa0dc9bc38ed3ab/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ikhsan/.gradle/caches/transforms-3/929b1d9fd46e08cd191130faf5a461f2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/ikhsan/.gradle/caches/transforms-3/929b1d9fd46e08cd191130faf5a461f2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ikhsan/.gradle/caches/transforms-3/c772a36d169a0c7f2e83a4dc1bb08120/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ikhsan/.gradle/caches/transforms-3/c772a36d169a0c7f2e83a4dc1bb08120/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ikhsan/.gradle/caches/transforms-3/d9e7d8fd37e2a4ba3a58d8cc11fc5bd4/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ikhsan/.gradle/caches/transforms-3/d9e7d8fd37e2a4ba3a58d8cc11fc5bd4/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/dcd16acfa3507d07082bcf68f19faaef/transformed/navigation-dynamic-features-fragment-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/dcd16acfa3507d07082bcf68f19faaef/transformed/navigation-dynamic-features-fragment-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/d30444d5241fd163429caf2dc2f849b7/transformed/navigation-fragment-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/d30444d5241fd163429caf2dc2f849b7/transformed/navigation-fragment-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/07396125af147d9eb4766f03b3fcf493/transformed/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/07396125af147d9eb4766f03b3fcf493/transformed/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/3fec0c73fcdb379f29058169c991f4e2/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/3fec0c73fcdb379f29058169c991f4e2/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/08ce5a4dafb5b73fa199c18a6d6f1726/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/08ce5a4dafb5b73fa199c18a6d6f1726/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/ikhsan/.gradle/caches/transforms-3/60d7dad61b596cfbf7baf0bd9bef30c4/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/ikhsan/.gradle/caches/transforms-3/60d7dad61b596cfbf7baf0bd9bef30c4/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/ikhsan/.gradle/caches/transforms-3/092393640c0608266962377c07abdc92/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/ikhsan/.gradle/caches/transforms-3/092393640c0608266962377c07abdc92/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/df4ec9d7a7c5b30f5875a960282fb977/transformed/navigation-dynamic-features-runtime-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/df4ec9d7a7c5b30f5875a960282fb977/transformed/navigation-dynamic-features-runtime-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/d0003a2c42c0fde8e343e0e48db69650/transformed/navigation-runtime-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/d0003a2c42c0fde8e343e0e48db69650/transformed/navigation-runtime-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/b1e73462022c28ce59970aeb34815db1/transformed/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/b1e73462022c28ce59970aeb34815db1/transformed/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/ikhsan/.gradle/caches/transforms-3/a8d31b626279fc851515da086f70b894/transformed/activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/ikhsan/.gradle/caches/transforms-3/a8d31b626279fc851515da086f70b894/transformed/activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/ikhsan/.gradle/caches/transforms-3/a9e0b0159aac2cc4b5dbc92efe437f33/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/ikhsan/.gradle/caches/transforms-3/a9e0b0159aac2cc4b5dbc92efe437f33/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a873028cd79ea023aea23baef142ae6a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a873028cd79ea023aea23baef142ae6a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/6b6d133a459b798c35876c9dd2f36c07/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/6b6d133a459b798c35876c9dd2f36c07/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/ed5b8f15aa743a0d74efe55197647f5d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/ed5b8f15aa743a0d74efe55197647f5d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/f473a219c87ba2be15076b45b38ed9dd/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/f473a219c87ba2be15076b45b38ed9dd/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/2eba3faf70e8a73c295b6bf780e06ad2/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/2eba3faf70e8a73c295b6bf780e06ad2/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/f9a1eefb75bf822c41c08049d2985472/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/f9a1eefb75bf822c41c08049d2985472/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/de9e5db74f890ee8ca04b64bad6e8700/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/de9e5db74f890ee8ca04b64bad6e8700/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/53242bb7153c9063121379e63c591bef/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/53242bb7153c9063121379e63c591bef/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ca668b4c44c0b422a2963dc6f576f879/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ca668b4c44c0b422a2963dc6f576f879/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/968e64363c5c64c31bb55992c851c562/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/968e64363c5c64c31bb55992c851c562/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/edab3e23f456dc64f7b2ec407b27372a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/edab3e23f456dc64f7b2ec407b27372a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/1488b3d9d10c448b372d120604f7800b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/1488b3d9d10c448b372d120604f7800b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/ikhsan/.gradle/caches/transforms-3/68f4a8613fa06073fdd59d34ae6c89dc/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/ikhsan/.gradle/caches/transforms-3/68f4a8613fa06073fdd59d34ae6c89dc/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/27712469a5f069530ccc1489f59a7cd8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/27712469a5f069530ccc1489f59a7cd8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/432d80872fe660f17a0da4cdef2fa487/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/432d80872fe660f17a0da4cdef2fa487/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/418ca47fdfee857a4b139a45b382109c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/ikhsan/.gradle/caches/transforms-3/418ca47fdfee857a4b139a45b382109c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/110338a8a51091d6cf5d0b80b240921a/transformed/navigation-common-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0-rc01] /home/ikhsan/.gradle/caches/transforms-3/110338a8a51091d6cf5d0b80b240921a/transformed/navigation-common-ktx-2.3.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/5faec801d8670c7e66b91d8493613844/transformed/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/ikhsan/.gradle/caches/transforms-3/5faec801d8670c7e66b91d8493613844/transformed/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/17a04075de01956f65b643cd802243e4/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/17a04075de01956f65b643cd802243e4/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/27e7b34d32d238b84fe925b774106428/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/27e7b34d32d238b84fe925b774106428/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/c044f9c168a7334dc547e66519a3b1a9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/c044f9c168a7334dc547e66519a3b1a9/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a812e1321a373222e25d7eba15126117/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a812e1321a373222e25d7eba15126117/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a6977b5fa5f1caa7f458ec0df235657a/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a6977b5fa5f1caa7f458ec0df235657a/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a4091ffbc65411772ba20a944badd2cf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a4091ffbc65411772ba20a944badd2cf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/ikhsan/.gradle/caches/transforms-3/6090226bd2db684f334ab2322fe917a1/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/ikhsan/.gradle/caches/transforms-3/6090226bd2db684f334ab2322fe917a1/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/ikhsan/.gradle/caches/transforms-3/f0a7bf35c42eb1cb0c1c186928d7f010/transformed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/ikhsan/.gradle/caches/transforms-3/f0a7bf35c42eb1cb0c1c186928d7f010/transformed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/31acde5fa7e5deb529e0e6c7ec76ff49/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/ikhsan/.gradle/caches/transforms-3/31acde5fa7e5deb529e0e6c7ec76ff49/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/d65736a385800de948f918eff9ce702d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/d65736a385800de948f918eff9ce702d/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/0d614d755f8327eec71991b027832f02/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/0d614d755f8327eec71991b027832f02/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ce3e0d25335f594569e137279147f2e2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ce3e0d25335f594569e137279147f2e2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/8d77dc4276470111facc9cf6b109bdb5/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/8d77dc4276470111facc9cf6b109bdb5/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/ikhsan/.gradle/caches/transforms-3/2d0b2f84668bab3f7cfe7375a188b92a/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/ikhsan/.gradle/caches/transforms-3/2d0b2f84668bab3f7cfe7375a188b92a/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ikhsan/.gradle/caches/transforms-3/7f104d02565e2438671a7f9400d17f9a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ikhsan/.gradle/caches/transforms-3/7f104d02565e2438671a7f9400d17f9a/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/d92d4a5c312d224eeadcc148cca2d153/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/ikhsan/.gradle/caches/transforms-3/d92d4a5c312d224eeadcc148cca2d153/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ikhsan/.gradle/caches/transforms-3/856f4fb7696c178624ed9fe7fec5dd5e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ikhsan/.gradle/caches/transforms-3/856f4fb7696c178624ed9fe7fec5dd5e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/7803887f337b87fac9eee669bfc95b5b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/7803887f337b87fac9eee669bfc95b5b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/293f003b6a581ece247f0276e6b81137/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/293f003b6a581ece247f0276e6b81137/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a716cc6fa9c0a8ba917d5f3b2a9b3f5b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/a716cc6fa9c0a8ba917d5f3b2a9b3f5b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/68e1e4e57b7aac7a5395297e498b779d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ikhsan/.gradle/caches/transforms-3/68e1e4e57b7aac7a5395297e498b779d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ikhsan/.gradle/caches/transforms-3/a1477e1968e911d3c31cfdc01fb42475/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ikhsan/.gradle/caches/transforms-3/a1477e1968e911d3c31cfdc01fb42475/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:4:3-70
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ikhsan/AndroidStudioProjects/NewsApp/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ce3e0d25335f594569e137279147f2e2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/ikhsan/.gradle/caches/transforms-3/ce3e0d25335f594569e137279147f2e2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/ikhsan/.gradle/caches/transforms-3/a65f4dd599d04c1a059af0070cf8f598/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.newsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.newsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/ikhsan/.gradle/caches/transforms-3/b5376d7b685018c970bb4744eb61bc7c/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/ikhsan/.gradle/caches/transforms-3/90b4bd31b41c6ead8024d8dd6c307999/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/ikhsan/.gradle/caches/transforms-3/5d9bf44234d97833063c036ecd616ca7/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/ikhsan/.gradle/caches/transforms-3/92c0de8cd3a21f1f13d30bde31e51e1e/transformed/core-1.7.2/AndroidManifest.xml:16:14-95
